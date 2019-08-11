@@ -14,7 +14,7 @@ Graphics by: Jonas Raagaard (http://jonaz.dk/)
 /lib/mmapi.jar (https://www.oracle.com/technetwork/java/javaee/downloads/mmapi-141209.html)
 
 # Note, music removed:
-/res/a.mid  (http://midkar.com/themes/the_sailors_hornpipe_jrd.mid)
-/res/b.mid  (Kong Christian stod ved højen mast)
-/res/c.mid  (Game over)
-/res/d.mid  (https://www.folkrag.org/tunes/sound/arran_boat.mid)
+/res/a.mid  (http://midkar.com/themes/the_sailors_hornpipe_jrd.mid)  
+/res/b.mid  (Kong Christian stod ved højen mast)  
+/res/c.mid  (Game over)  
+/res/d.mid  (https://www.folkrag.org/tunes/sound/arran_boat.mid)  

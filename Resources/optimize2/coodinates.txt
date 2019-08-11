@@ -1,0 +1,121 @@
+
+#### _Clouds.psd
+cloud_big.png 0,0-50,60
+cloud_dark.png 56,0-107,60
+cloud_fluffy.png 108,0-171,60
+
+#### _kk.psd
+Title.png 0,0-151,58
+WaterSplash1.png 7,62-17,72
+WaterSplash2.png 18,62-28,72
+WaterSplash3.png 29,62-39,72
+ship_wake4.png 40,60-59,79
+ship_wake3.png 60,60-79,79
+ship_wake2.png 80,60-99,79
+ship_wake1.png 100,60-119,79
+MenuArrowR.png 120,62-130,72
+MenuArrowL.png 131,62-141,72
+GameKaperS_W.png 0,80-19,99
+GameKaperS_SW.png 20,80-39,99
+GameKaperS_SE.png  40,80-59,99
+GameKaperS_S.png 60,80-79,99
+GameKaperS_NW.png 80,80-99,99
+GameKaperS_NE.png 100,80-119,99
+GameKaperS_N.png 120,80-139,99
+GameKaperS_E.png 140,80-149,99
+
+####_ships.psd (opdateret)
+GameKaperL_W.png 0,0-19,19
+GameKaperL_SW.png 20,0-39,19
+GameKaperL_SE.png 40,0-59,19
+GameKaperL_S.png 60,0-79,19
+GameKaperL_NW.png 80,0-99,19
+GameKaperL_NE.png 100,0-119,19
+GameKaperL_N.png 120,0-139,19
+GameKaperL_E.png 140,0-159,19
+GameEnemyM_W.png 0,20-19,39
+GameEnemyM_SW.png 20,20-39,39
+GameEnemyM_SE.png 40,20-59,39
+GameEnemyM_S.png 60,20-79,39
+GameEnemyM_NW.png 80,20-99,39
+GameEnemyM_NE.png 100,20-119,39
+GameEnemyM_N.png 120,20-139,39
+GameEnemyM_E.png 140,20-159,39
+
+GameEnemyS_W.png 0,40-19,59
+GameEnemyS_SW.png 20,40-39,59
+GameEnemyS_SE.png 40,40-59,59
+GameEnemyS_S.png 60,40-79,59
+GameEnemyS_NW.png 80,40-99,59
+GameEnemyS_NE.png 100,40-119,59
+GameEnemyS_N.png 120,40-139,59
+GameEnemyS_E.png 140,40-159,59
+
+GameEnemyL_W.png 0,60-19,79
+GameEnemyL_SW.png 20,60-39,79
+GameEnemyL_SE.png 40,60-59,79
+GameEnemyL_S.png 60,60-79,79
+GameEnemyL_NW.png 80,60-99,79
+GameEnemyL_NE.png 100,60-119,79
+GameEnemyL_N.png 120,60-139,79
+GameEnemyL_E.png 140,60-159,79
+
+
+
+
+
+
+####_crew.psd
+flash4.png 0,0-20,20
+flash3.png 21,0- 41,20
+flash2.png 42,0-62,20
+flash1.png 63,0-83,20
+Explosion3.png 84,0-94,10
+Explosion2.png 95,0-105,10
+Explosion1.png 106,0-116,10
+EventBox1.png 117,0-125,8
+EventBox2.png 126,0-134,8
+EventBox3.png 135,0-143,8
+EventBox4.png 144,0-152,8
+EventBox6.png 144,9-152,17
+EventBox7.png 135,9-143,17
+EventBox8.png 126,9-134,17
+EventBox9.png 117,9-125,17
+City_Object.png 153,0-161,8
+City_Kaper.png 162,0-170,8
+cannonball.png 171,0-174,3
+cannonicon 175,0-189,14
+crewicon 190,0-204,14
+BoardKaperW2.png 0,21-19,40
+BoardKaperW1.png 20,21-39,40
+BoardKaperShot.png 40,21-59,40
+BoardKaperCC1.png 60,21-79,40
+BoardKaperCC2.png 80,21-99,40
+BoardKaperD3.png 100,21-119,40
+BoardKaperD2.png 120,21-139,40
+BoardKaperD1.png 140,21-159,40
+BoardKaperF1.png 160,21-179,40
+BoardKaperF2.png 180,21-199,40
+BoardEnemyW2.png 0,41-19,60
+BoardEnemyW1.png 20,41-39,60
+BoardEnemyShot.png 40,41-59,60
+BoardEnemyCC1.png 60,41-79,60
+BoardEnemyCC2.png 80,41-99,60
+BoardEnemyD3.png 100,41-119,60
+BoardEnemyD2.png 120,41-139,60
+BoardEnemyD1.png 140,41-159,60
+BoardEnemyF1.png 160,41-179,60
+BoardEnemyF2.png  180,41-199,60
+GameKaperM_W.png 0,60-19,79
+GameKaperM_SW.png 20,60-39,79
+GameKaperM_SE.png 40,60-59,79
+GameKaperM_S.png 60,60-79,79
+GameKaperM_NW.png 80,60-99,79
+GameKaperM_NE.png 100,60-119,79
+GameKaperM_N.png 120,60-139,79
+GameKaperM_E.png 140,60-159,79
+crosshair 162,62-178,78
+
+
+
+

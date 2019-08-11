@@ -1,11 +1,11 @@
 # Mobil Kaptajn kaper
-Release date: 2005
-Programming language: Java (J2ME) 
-Coded by: Tommy Kobberø (http://logicwork.net)
-Graphics by: Jonas Raagaard (http://jonaz.dk/)
+Release date: 2005  
+Programming language: Java (J2ME)  
+Coded by: Tommy Kobberø (http://logicwork.net)  
+Graphics by: Jonas Raagaard (http://jonaz.dk/)  
 		
 # Screenshots
-![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk_title.png)
+![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk_title.png)  
 ![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk.jpg)
 ![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk1.jpg)
 ![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk2.jpg)

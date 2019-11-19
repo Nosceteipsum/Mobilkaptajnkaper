@@ -5,10 +5,10 @@ Coded by: Tommy Kobberø (http://logicwork.net)
 Graphics by: Jonas Raagaard (http://jonaz.dk/)  
 		
 # Screenshots
-![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk_title.png)  
-![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk.jpg)
-![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk1.jpg)
-![Title_Image](http://logicwork.net/timeline/sparetime/symbian_kk2.jpg)
+![Title_Image](http://logicwork.net/images/github/symbian_kk_title.png)  
+![Title_Image](http://logicwork.net/images/github/symbian_kk.jpg)
+![Title_Image](http://logicwork.net/images/github/symbian_kk1.jpg)
+![Title_Image](http://logicwork.net/images/github/symbian_kk2.jpg)
 
 # Required library:
 /lib/mmapi.jar (https://www.oracle.com/technetwork/java/javaee/downloads/mmapi-141209.html)
